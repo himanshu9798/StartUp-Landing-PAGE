@@ -1,0 +1,25 @@
+.footer{
+    margin-left: 100px;
+    margin-right: 140px;
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+
+  
+
+}
+p{
+    font-size: 20px;
+    font-weight: 550;
+    color:black;
+    text-shadow: 1px gray;
+}
+P:hover{
+    color: blue;
+}
+.footer_last{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    border: 2px solid black;
+}

@@ -1,0 +1,53 @@
+.main{
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+li{
+    list-style: none;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+li:hover{
+    color: #3763e4;
+}
+
+.first{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.second{
+    display: flex;
+    float: right;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+button{
+    cursor: pointer;
+}
+
+.landoname {
+    font-size: 25px;
+    font-weight: 1000;
+    padding-top: 8px;
+}
+
+.navlink {
+    color: black;
+}
+
+.signupbutton {
+    color: white;
+    border-radius: 10px;
+    background-color: #3763e4;
+}
